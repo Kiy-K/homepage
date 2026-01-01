@@ -1,0 +1,12 @@
+- Giải trí:
+    - Jellyfin:
+        icon: jellyfin
+        href: http://100.66.75.71:8096 # Link này chỉ chạy khi máy ông bật Tailscale
+    - qBittorrent:
+        icon: qbittorrent
+        href: http://100.66.75.71:8089
+
+- Hệ thống:
+    - Cockpit:
+        icon: linux
+        href: https://100.66.75.71:9090
